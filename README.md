@@ -13,5 +13,10 @@ Connecting lakehouse semantic model delta table with power bi
 
 <img width="375" alt="image" src="https://github.com/user-attachments/assets/a7f0fa3c-66b4-489f-a433-1b7ed21ad3c4">
 
+Data Modeling 
+
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/4349b751-580b-4064-9333-5d387aa5c0e1">
+
+
 
 
