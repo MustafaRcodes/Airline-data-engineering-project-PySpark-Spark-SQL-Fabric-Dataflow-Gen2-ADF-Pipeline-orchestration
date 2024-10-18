@@ -7,7 +7,7 @@ Lineage view
 
 Data orchestration automated pipeline
 
-<img width="716" alt="image" src="https://github.com/user-attachments/assets/24cc1f02-5212-4cc3-8526-43fd7eabac1f">
+<img width="716" alt="Data orchestration automated reusable pipeline4" src="https://github.com/user-attachments/assets/fab4736c-13e7-4b1a-a844-a404c53be810">
 
 Connecting lakehouse semantic model delta table with power bi
 
