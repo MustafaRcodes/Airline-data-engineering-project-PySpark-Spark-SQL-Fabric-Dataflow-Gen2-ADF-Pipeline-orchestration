@@ -1,5 +1,5 @@
 # Airline-data-engineering-project-PySpark-Spark-SQL-Fabric-Dataflow-Gen2-ADF-Pipeline-orchestration
-US Airlines data engineering project, End to End Analytics, PySpark, Spark SQL, Microsoft Fabric Dataflow Gen2, Azure Data Factory Reusable Pipeline, Data orchestration, Lakehouse automated schema and Delta table storage, Data warehouse SQL endpoint, Connected Laskehouse Schema semantic model with Power BI desktop and service, crerated views and stored procedures, Data Modeling, Cardinality, Dax, calculated columns and Visualization. 
+US Airlines data engineering project, End to End Analytics, on-premises Data Gateway Setup, PySpark, Spark SQL, Microsoft Fabric Dataflow Gen2, Azure Data Factory Reusable Pipeline, Data orchestration, Lakehouse automated schema and Delta table storage, Data warehouse SQL endpoint, Connected Laskehouse Schema semantic model with Power BI desktop and service, crerated views and stored procedures, Data Modeling, Cardinality, Dax, calculated columns and Visualization. 
 
 Lineage view
 
