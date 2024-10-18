@@ -9,4 +9,9 @@ Data orchestration automated pipeline
 
 <img width="416" alt="Data orchestration automated pipeline" src="https://github.com/user-attachments/assets/9a6dd28f-dd7f-4b09-b921-55eb43c1b883">
 
+Connecting lakehouse semantic model delta table with power bi
+
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/a7f0fa3c-66b4-489f-a433-1b7ed21ad3c4">
+
+
 
